@@ -1,0 +1,5 @@
+batom,lipstick
+livro,book
+chave,key
+selos,stamps,
+relogio,watch

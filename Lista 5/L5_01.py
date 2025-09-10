@@ -1,0 +1,12 @@
+print("\nCONTAGEM NÚMERO DE VOGAIS")
+print("A CADA OPERAÇÃO, TECLE 'ENTER'\n")
+frase = input("Digite uma frase: ")
+a = frase.count("a") + frase.count("á") + frase.count("à") + frase.count("ã") + frase.count("â")
+A = frase.count("A") + frase.count("Á") + frase.count("À") + frase.count("Ã") + frase.count("Â")
+eE = frase.count("e") + frase.count("é") + frase.count("E") + frase.count("É") + frase.count("ê") + frase.count("Ê")
+iI = frase.count("i") + frase.count("í") + frase.count("I") + frase.count("Í")
+o = frase.count("o") + frase.count("ó") + frase.count("õ") + frase.count("ô")
+O = frase.count("O") + frase.count("Ó") + frase.count("Õ") + frase.count("Ô")
+uU = frase.count("u") + frase.count("ú") + frase.count("U") + frase.count("Ú")
+vogais = a + A + eE + iI + o + O + uU
+print("\nSua frase possui", vogais, "vogais.")

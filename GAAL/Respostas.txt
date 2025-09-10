@@ -1,0 +1,24 @@
+RESPOSTAS:
+a) Cincunferência
+b) Ponto
+c) Conjunto vazio em |R²
+d) Hipérbole
+e) Hipérbole
+f) Ponto
+g) Elipse
+h) Hipérbole
+i) Hipérbole
+j) Elipse
+k) Hipérbole
+l) Hipérbole
+m) Duas retas coincidentes
+n) Conjunto vazio em |R²
+o) Conjunto vazio em |R²
+p) Duas retas concorrentes
+q) Hipérbole
+r) Duas retas concorrentes
+s) Parábola
+t) Parábola
+u) Parábola
+v) Elipse
+w) Elipse

@@ -1,0 +1,8 @@
+print("\nCONTAGEM NÚMERO DE VOGAIS")
+print("A CADA OPERAÇÃO, TECLE 'ENTER'\n")
+frase = input("Digite uma frase: ")
+frase = frase.upper()
+scan = input("Qual a palavra a ser escontrada? ")
+escaneia = scan.upper()
+quantidade = frase.count(escaneia)
+print("\nSimilares a", scan, "apareceu(ram)", quantidade, "vezes")
